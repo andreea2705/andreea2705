@@ -9,7 +9,7 @@ I'm a beginner developer from Brașov, just starting my journey in tech. I'm cur
 * 🌱 Currently learning web development and programming fundamentals  
 * 💻 Exploring technologies like HTML, CSS, JavaScript, and a bit of PHP  
 * 🎯 My goal is to build real projects and gain experience  
-* 👩‍💻 Check out my projects: https://github.com/andreea2705?tab=repositories 
+* 👩‍💻 Check out my projects: [LINK](https://github.com/andreea2705?tab=repositories )
 
 ---
 
